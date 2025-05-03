@@ -14,5 +14,5 @@ This is a simple Todo API built with Node.js, Express, and MongoDB.
 
 1. Clone the project:
 ```bash
-git clone https://github.com/yourusername/todo-api.git
+git clone https://github.com/SmitaAmrutkar/todo-api.git
 cd todo-api
